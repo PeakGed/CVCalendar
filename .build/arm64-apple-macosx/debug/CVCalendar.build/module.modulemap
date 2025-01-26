@@ -1,0 +1,4 @@
+module CVCalendar {
+    header "/Users/introdexmini/Github/CVCalendar/.build/arm64-apple-macosx/debug/CVCalendar.build/CVCalendar-Swift.h"
+    requires objc
+}

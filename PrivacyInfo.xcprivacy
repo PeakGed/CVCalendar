@@ -1,0 +1,11 @@
+{
+    "NSPrivacyAccessedAPITypes": [
+        {
+            "NSPrivacyAccessedAPIType": "NSCalendarsUsageDescription",
+            "NSPrivacyAccessedAPITypeReasons": ["CA92.1"]
+        }
+    ],
+    "NSPrivacyCollectedDataTypes": [],
+    "NSPrivacyTrackingDomains": [],
+    "NSPrivacyTracking": false
+} 
